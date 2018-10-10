@@ -1,0 +1,3 @@
+https://dx-xian.github.io/cat/templates/index.html
+
+https://dx-xian.github.io/cat_photo/templates/index.html
